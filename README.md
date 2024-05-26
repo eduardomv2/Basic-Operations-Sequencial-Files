@@ -16,7 +16,7 @@
 
 <div class="image-container" align="center">
 
- - [X] CREATE 
+ - [X] Save
 <img alt="IMG" src="https://github.com/eduardomv2/Activiad-2-S4/assets/87501782/25abfcac-9f7a-4bd0-bd40-f364bb5c50d8" width="40%" height="auto" /> 
 
  - [X] READ
